@@ -1,0 +1,20 @@
+[
+  {
+    "natureza": "Acidente",
+    "grupo": "Acidente de trânsito",
+    "subgrupo": "Carro e moto",
+    "bairro": "parque pinheiros",
+    "logradouro": "rua paulo ayres",
+    "datetime": "2024-06-16T21:00",
+    "id": 16
+  },
+  {
+    "natureza": "Resgate",
+    "grupo": "Emergência clínica",
+    "subgrupo": "Assistência ao parto",
+    "bairro": "Vila Iase",
+    "logradouro": "Avenida Campinas",
+    "datetime": "2024-06-16T23:06",
+    "id": 17
+  }
+]
